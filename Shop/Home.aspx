@@ -114,11 +114,11 @@
 
     <script>
         function viewNewArrivals() {
-            window.location.href = "Profile.aspx";
+            window.location.href = "NewArrivals.aspx";
         }
 
         function viewProfile() {
-            window.location.href = "Menu.aspx";
+            window.location.href = "Profile.aspx";
         }
 
         function viewShop() {
