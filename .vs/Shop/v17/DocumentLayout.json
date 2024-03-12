@@ -3,44 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{118A3B31-AEA5-41D3-B4F1-FCFEDDF8E383}|Shop\\Shop.csproj|c:\\users\\heaven fajardo\\onedrive\\desktop\\asp .net\\shop\\shop\\settings.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{118A3B31-AEA5-41D3-B4F1-FCFEDDF8E383}|Shop\\Shop.csproj|solutionrelative:shop\\settings.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{118A3B31-AEA5-41D3-B4F1-FCFEDDF8E383}|Shop\\Shop.csproj|c:\\users\\heaven fajardo\\onedrive\\desktop\\asp .net\\shop\\shop\\shop1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{118A3B31-AEA5-41D3-B4F1-FCFEDDF8E383}|Shop\\Shop.csproj|solutionrelative:shop\\shop1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{118A3B31-AEA5-41D3-B4F1-FCFEDDF8E383}|Shop\\Shop.csproj|c:\\users\\heaven fajardo\\onedrive\\desktop\\asp .net\\shop\\shop\\settings.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{118A3B31-AEA5-41D3-B4F1-FCFEDDF8E383}|Shop\\Shop.csproj|solutionrelative:shop\\settings.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{118A3B31-AEA5-41D3-B4F1-FCFEDDF8E383}|Shop\\Shop.csproj|c:\\users\\heaven fajardo\\onedrive\\desktop\\asp .net\\shop\\shop\\shop1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118A3B31-AEA5-41D3-B4F1-FCFEDDF8E383}|Shop\\Shop.csproj|solutionrelative:shop\\shop1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{118A3B31-AEA5-41D3-B4F1-FCFEDDF8E383}|Shop\\Shop.csproj|c:\\users\\heaven fajardo\\onedrive\\desktop\\asp .net\\shop\\shop\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{118A3B31-AEA5-41D3-B4F1-FCFEDDF8E383}|Shop\\Shop.csproj|solutionrelative:shop\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{118A3B31-AEA5-41D3-B4F1-FCFEDDF8E383}|Shop\\Shop.csproj|c:\\users\\heaven fajardo\\onedrive\\desktop\\asp .net\\shop\\shop\\sellwithus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{118A3B31-AEA5-41D3-B4F1-FCFEDDF8E383}|Shop\\Shop.csproj|solutionrelative:shop\\sellwithus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{118A3B31-AEA5-41D3-B4F1-FCFEDDF8E383}|Shop\\Shop.csproj|c:\\users\\heaven fajardo\\onedrive\\desktop\\asp .net\\shop\\shop\\profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{118A3B31-AEA5-41D3-B4F1-FCFEDDF8E383}|Shop\\Shop.csproj|solutionrelative:shop\\profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{118A3B31-AEA5-41D3-B4F1-FCFEDDF8E383}|Shop\\Shop.csproj|C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\shop\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{118A3B31-AEA5-41D3-B4F1-FCFEDDF8E383}|Shop\\Shop.csproj|solutionrelative:shop\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{118A3B31-AEA5-41D3-B4F1-FCFEDDF8E383}|Shop\\Shop.csproj|c:\\users\\heaven fajardo\\onedrive\\desktop\\asp .net\\shop\\shop\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{118A3B31-AEA5-41D3-B4F1-FCFEDDF8E383}|Shop\\Shop.csproj|C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\shop\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{118A3B31-AEA5-41D3-B4F1-FCFEDDF8E383}|Shop\\Shop.csproj|solutionrelative:shop\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{118A3B31-AEA5-41D3-B4F1-FCFEDDF8E383}|Shop\\Shop.csproj|C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\shop\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{118A3B31-AEA5-41D3-B4F1-FCFEDDF8E383}|Shop\\Shop.csproj|solutionrelative:shop\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{118A3B31-AEA5-41D3-B4F1-FCFEDDF8E383}|Shop\\Shop.csproj|c:\\users\\heaven fajardo\\onedrive\\desktop\\asp .net\\shop\\shop\\feedbacks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{118A3B31-AEA5-41D3-B4F1-FCFEDDF8E383}|Shop\\Shop.csproj|solutionrelative:shop\\feedbacks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{118A3B31-AEA5-41D3-B4F1-FCFEDDF8E383}|Shop\\Shop.csproj|c:\\users\\heaven fajardo\\onedrive\\desktop\\asp .net\\shop\\shop\\feedbacks.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{118A3B31-AEA5-41D3-B4F1-FCFEDDF8E383}|Shop\\Shop.csproj|C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\shop\\feedbacks.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{118A3B31-AEA5-41D3-B4F1-FCFEDDF8E383}|Shop\\Shop.csproj|solutionrelative:shop\\feedbacks.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{118A3B31-AEA5-41D3-B4F1-FCFEDDF8E383}|Shop\\Shop.csproj|C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\shop\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{118A3B31-AEA5-41D3-B4F1-FCFEDDF8E383}|Shop\\Shop.csproj|solutionrelative:shop\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{118A3B31-AEA5-41D3-B4F1-FCFEDDF8E383}|Shop\\Shop.csproj|C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\shop\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{118A3B31-AEA5-41D3-B4F1-FCFEDDF8E383}|Shop\\Shop.csproj|solutionrelative:shop\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118A3B31-AEA5-41D3-B4F1-FCFEDDF8E383}|Shop\\Shop.csproj|C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\shop\\settings.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118A3B31-AEA5-41D3-B4F1-FCFEDDF8E383}|Shop\\Shop.csproj|solutionrelative:shop\\settings.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Profile.aspx",
               "DocumentMoniker": "C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\Shop\\Profile.aspx",
               "RelativeDocumentMoniker": "Shop\\Profile.aspx",
@@ -69,71 +57,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Settings.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\Shop\\Settings.aspx.cs",
-              "RelativeDocumentMoniker": "Shop\\Settings.aspx.cs",
-              "ToolTip": "C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\Shop\\Settings.aspx.cs",
-              "RelativeToolTip": "Shop\\Settings.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAVAAAA",
+              "Title": "Shop1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\Shop\\Shop1.aspx.cs",
+              "RelativeDocumentMoniker": "Shop\\Shop1.aspx.cs",
+              "ToolTip": "C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\Shop\\Shop1.aspx.cs",
+              "RelativeToolTip": "Shop\\Shop1.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T01:35:42.614Z",
+              "WhenOpened": "2024-03-12T01:32:34.614Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Settings.aspx",
-              "DocumentMoniker": "C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\Shop\\Settings.aspx",
-              "RelativeDocumentMoniker": "Shop\\Settings.aspx",
-              "ToolTip": "C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\Shop\\Settings.aspx",
-              "RelativeToolTip": "Shop\\Settings.aspx",
+              "DocumentIndex": 2,
+              "Title": "SellwithUs.aspx",
+              "DocumentMoniker": "C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\Shop\\SellwithUs.aspx",
+              "RelativeDocumentMoniker": "Shop\\SellwithUs.aspx",
+              "ToolTip": "C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\Shop\\SellwithUs.aspx",
+              "RelativeToolTip": "Shop\\SellwithUs.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-02-29T01:31:05.97Z",
+              "WhenOpened": "2024-03-12T01:18:10.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Feedbacks.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\Shop\\Feedbacks.aspx.cs",
-              "RelativeDocumentMoniker": "Shop\\Feedbacks.aspx.cs",
-              "ToolTip": "C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\Shop\\Feedbacks.aspx.cs",
-              "RelativeToolTip": "Shop\\Feedbacks.aspx.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAkwB8AAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T01:09:25.559Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Feedbacks.aspx",
-              "DocumentMoniker": "C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\Shop\\Feedbacks.aspx",
-              "RelativeDocumentMoniker": "Shop\\Feedbacks.aspx",
-              "ToolTip": "C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\Shop\\Feedbacks.aspx",
-              "RelativeToolTip": "Shop\\Feedbacks.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-02-29T01:06:45.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "login.aspx",
-              "DocumentMoniker": "C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\Shop\\login.aspx",
-              "RelativeDocumentMoniker": "Shop\\login.aspx",
-              "ToolTip": "C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\Shop\\login.aspx",
-              "RelativeToolTip": "Shop\\login.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-02-25T16:51:45.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Home.aspx",
               "DocumentMoniker": "C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\Shop\\Home.aspx",
               "RelativeDocumentMoniker": "Shop\\Home.aspx",
@@ -141,46 +90,45 @@
               "RelativeToolTip": "Shop\\Home.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-02-25T17:11:09.892Z",
+              "WhenOpened": "2024-03-07T02:06:04.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Settings.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\Shop\\Settings.aspx.cs",
+              "RelativeDocumentMoniker": "Shop\\Settings.aspx.cs",
+              "ToolTip": "C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\Shop\\Settings.aspx.cs",
+              "RelativeToolTip": "Shop\\Settings.aspx.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwBMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T01:35:42.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shop1.aspx",
+              "DocumentMoniker": "C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\Shop\\Shop1.aspx",
+              "RelativeDocumentMoniker": "Shop\\Shop1.aspx",
+              "ToolTip": "C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\Shop\\Shop1.aspx",
+              "RelativeToolTip": "Shop\\Shop1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-04T14:33:36.246Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "login.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\Shop\\login.aspx.cs",
-              "RelativeDocumentMoniker": "Shop\\login.aspx.cs",
-              "ToolTip": "C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\Shop\\login.aspx.cs",
-              "RelativeToolTip": "Shop\\login.aspx.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwA8AAAAAAAAA",
+              "Title": "Feedbacks.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\Shop\\Feedbacks.aspx.cs",
+              "RelativeDocumentMoniker": "Shop\\Feedbacks.aspx.cs",
+              "ToolTip": "C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\Shop\\Feedbacks.aspx.cs",
+              "RelativeToolTip": "Shop\\Feedbacks.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T16:52:47.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Profile.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\Shop\\Profile.aspx.cs",
-              "RelativeDocumentMoniker": "Shop\\Profile.aspx.cs",
-              "ToolTip": "C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\Shop\\Profile.aspx.cs",
-              "RelativeToolTip": "Shop\\Profile.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T00:37:24.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "login.aspx.designer.cs",
-              "DocumentMoniker": "C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\Shop\\login.aspx.designer.cs",
-              "RelativeDocumentMoniker": "Shop\\login.aspx.designer.cs",
-              "ToolTip": "C:\\Users\\Heaven Fajardo\\OneDrive\\Desktop\\ASP .NET\\Shop\\Shop\\login.aspx.designer.cs",
-              "RelativeToolTip": "Shop\\login.aspx.designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T17:04:06.2Z",
+              "WhenOpened": "2024-02-29T01:09:25.559Z",
               "EditorCaption": ""
             }
           ]

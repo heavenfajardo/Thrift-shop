@@ -8,7 +8,8 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f2f2f2;
+            background-color: #fff; /* Change background color to white */
+            color: #000; /* Change text color to black */
             display: flex;
             justify-content: center;
             align-items: center;
@@ -40,7 +41,7 @@
             border-radius: 3px;
         }
         input[type="submit"] {
-            background-color: #4caf50;
+            background-color: #555; /* Change button background color */
             color: #fff;
             padding: 10px 20px;
             border: none;
@@ -48,26 +49,24 @@
             cursor: pointer;
         }
         input[type="submit"]:hover {
-            background-color: #45a049;
+            background-color: #333; /* Change button hover background color */
         }
-        .back-button,
-        {
-         background-color: #555; 
-         color: #fff; 
-         padding: 10px 20px;
-         border: none;
-         border-radius: 3px;
-         cursor: pointer;
-         width: 100%;
-         margin-top: 10px; 
-         text-align: center;
-         display: inline-block;
-         text-decoration: none; 
+        .back-button {
+            background-color: #555; /* Change button background color */
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 3px;
+            cursor: pointer;
+            width: 100%;
+            margin-top: 10px;
+            text-align: center;
+            display: inline-block;
+            text-decoration: none; 
         }
 
-        .back-button:hover,
-        :hover {
-        background-color: #333; 
+        .back-button:hover {
+            background-color: #333; /* Change button hover background color */
         }
 
     </style>
@@ -90,7 +89,7 @@
             <label for="email">Email Address:</label>
             <input type="email" id="email" runat="server" />
         </div>
-        <asp:Button ID="BtnSave" runat="server" Text="Save" OnClick="BtnSave_Click" />
+        <asp:Button ID="BtnSave" runat="server" Text="Save" OnClick="BtnSave_Click" CssClass="back-button" />
         <asp:Button ID="BtnHome" runat="server" Text="Go Back to Homepage" OnClick="BtnHome_Click" CssClass="back-button" />
     </form>
 </body>
