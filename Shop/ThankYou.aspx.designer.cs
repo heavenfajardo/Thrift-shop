@@ -11,7 +11,7 @@ namespace Shop
 {
 
 
-    public partial class SellwithUs
+    public partial class ThankYou
     {
 
         /// <summary>
@@ -24,48 +24,57 @@ namespace Shop
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// txtName control.
+        /// OrderHistoryRepeater control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputText txtName;
+        protected global::System.Web.UI.WebControls.Repeater OrderHistoryRepeater;
 
         /// <summary>
-        /// txtEmail control.
+        /// lblName control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputText txtEmail;
+        protected global::System.Web.UI.WebControls.Label lblName;
 
         /// <summary>
-        /// txtProductType control.
+        /// lblGcashNumber control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputText txtProductType;
+        protected global::System.Web.UI.WebControls.Label lblGcashNumber;
 
         /// <summary>
-        /// txtProductName control.
+        /// lblGcashName control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputText txtProductName;
+        protected global::System.Web.UI.WebControls.Label lblGcashName;
 
         /// <summary>
-        /// txtPrice control.
+        /// lblReferenceNumber control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputText txtPrice;
+        protected global::System.Web.UI.WebControls.Label lblReferenceNumber;
+
+        /// <summary>
+        /// lblAmount control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblAmount;
     }
 }

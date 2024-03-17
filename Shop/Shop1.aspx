@@ -16,12 +16,7 @@
     <form id="form1" runat="server">
         <div class="container">
             <h1>Shop</h1>
-          
-            <div class="form-group">
-                <input type="text" id="txtSearch" runat="server" class="form-control" placeholder="Search...">
-            </div>
-            
-            
+              
             <ul class="nav nav-tabs">
                 <li class="nav-item">
                     <a class="nav-link" data-toggle="tab" href="#men">Men</a>
@@ -45,8 +40,8 @@
                                 <img src="/images/tshirt_men.jpg" class="card-img-top" alt="Sample Men's Product">
                                 <div class="card-body">
                                     <h5 class="card-title">Men Shirt</h5>
-                                    <p class="card-text">Price: $12</p>
-                                   <asp:Button ID="Button5" runat="server" Text="Add to Cart" CssClass="btn btn-primary" OnClick="btnAddToCart_Click" />
+                                    <p class="card-text">Price: 1200</p>
+                                   <asp:Button ID="Button5" runat="server" Text="Add to Cart" CssClass="btn btn-primary" OnClick="btnAddToCart_Click" CommandArgument="Men Shirt" />
                                 </div>
                             </div>
                         </div>
@@ -55,8 +50,8 @@
                                 <img src="/images/loose_jeans.jpg" class="card-img-top" alt="Sample Men's Product">
                                 <div class="card-body">
                                     <h5 class="card-title">Men Loose Jeans</h5>
-                                    <p class="card-text">Price: $18</p>
-                                    <asp:Button ID="Button4" runat="server" Text="Add to Cart" CssClass="btn btn-primary" OnClick="btnAddToCart_Click" />
+                                    <p class="card-text">Price: 1800</p>
+                                    <asp:Button ID="Button4" runat="server" Text="Add to Cart" CssClass="btn btn-primary" OnClick="btnAddToCart_Click" CommandArgument="Men Loose Jeans" />
                                 </div>
                             </div>
                         </div>
@@ -65,8 +60,8 @@
                                 <img src="/images/shirt_grey.jpg" class="card-img-top" alt="Sample Men's Product">
                                 <div class="card-body">
                                     <h5 class="card-title">Men Shirt</h5>
-                                    <p class="card-text">Price: $15</p>
-                                    <asp:Button ID="Button3" runat="server" Text="Add to Cart" CssClass="btn btn-primary" OnClick="btnAddToCart_Click" /> 
+                                    <p class="card-text">Price: 1500</p>
+                                    <asp:Button ID="Button3" runat="server" Text="Add to Cart" CssClass="btn btn-primary" OnClick="btnAddToCart_Click" CommandArgument="Men Shirt Grey" /> 
                                 </div>
                             </div>
                         </div>
@@ -79,8 +74,8 @@
                             <img src="/images/loose_jeans.jpg" class="card-img-top img-fluid" alt="Sample Women's Product">
                             <div class="card-body">
                                 <h5 class="card-title">Women Loose Jeans</h5>
-                                <p class="card-text">Price: $20</p>
-                             <asp:Button ID="Button2" runat="server" Text="Add to Cart" CssClass="btn btn-primary" OnClick="btnAddToCart_Click" />
+                                <p class="card-text">Price: 800</p>
+                             <asp:Button ID="Button2" runat="server" Text="Add to Cart" CssClass="btn btn-primary" OnClick="btnAddToCart_Click" CommandArgument="Women Loose Jeans" />
                             </div>
                         </div>
                     </div>
@@ -89,8 +84,8 @@
                             <img src="/images/women.jpg" class="card-img-top img-fluid" alt="Sample Women's Product">
                             <div class="card-body">
                                 <h5 class="card-title">Shirt</h5>
-                                <p class="card-text">Price: $30</p>
-                              <asp:Button ID="Button1" runat="server" Text="Add to Cart" CssClass="btn btn-primary" OnClick="btnAddToCart_Click" />
+                                <p class="card-text">Price: 300</p>
+                              <asp:Button ID="Button1" runat="server" Text="Add to Cart" CssClass="btn btn-primary" OnClick="btnAddToCart_Click" CommandArgument="Shirt" />
                             </div>
                         </div>
                     </div>
@@ -99,8 +94,8 @@
                             <img src="/images/women1.jpg" class="card-img-top img-fluid" alt="Sample Women's Product">
                             <div class="card-body">
                                 <h5 class="card-title">Sheath Dress</h5>
-                                <p class="card-text">Price: $55</p>
-                                <asp:Button ID="btnAddToCart" runat="server" Text="Add to Cart" CssClass="btn btn-primary" OnClick="btnAddToCart_Click" />
+                                <p class="card-text">Price: 550</p>
+                                <asp:Button ID="btnAddToCart" runat="server" Text="Add to Cart" CssClass="btn btn-primary" OnClick="btnAddToCart_Click" CommandArgument="Sheath Dress" />
                             </div>
                         </div>
                     </div>
@@ -155,7 +150,20 @@
 
      <script>
          function addToCart() {
-             alert("Item added to cart");
+             alert('Item added to cart.');
+             showOrdersMessage();
+         }
+
+         function showOrdersMessage() {
+             alert('Press the button to view your orders.');
+             redirectToOrders();
+         }
+
+         function redirectToOrders() {
+             window.location.href = 'Orders.aspx';
+         }
+         function goToHome() {
+             window.location.href = "Home.aspx";
          }
      </script>
 </body>

@@ -20,6 +20,8 @@ namespace Shop
         }
         protected void btnLogin_Click(object sender, EventArgs e)
         {
+            string username = txtUsername.Text.Trim();
+            Session["Username"] = username; 
             Response.Redirect("Home.aspx");
         }
     }

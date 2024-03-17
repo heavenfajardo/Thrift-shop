@@ -11,7 +11,20 @@ namespace Shop
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            if (!IsPostBack)
+            {
+           
+                if (Session["Username"] != null)
+                {
+                    string username = Session["Username"].ToString();
+                    lblWelcomeMessage.Text = $"Hi {username}, Welcome to Online Shop!!!!";
+                }
+                else
+                {
+                  
+                    Response.Redirect("login.aspx");
+                }
+            }
         }
     }
 }

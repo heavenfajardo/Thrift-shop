@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Home.aspx.cs" Inherits="Shop.Home" %>
+﻿    <%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Home.aspx.cs" Inherits="Shop.Home" %>
 
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -7,8 +7,8 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f2f2f2; /* Change background color to match settings page */
-            color: #000; /* Change text color to black */
+            background-color: #f2f2f2; 
+            color: #000; 
             margin: 0;
             padding: 0;
         }
@@ -20,7 +20,7 @@
             display: flex;
             justify-content: start;
             align-items: center;
-            background-color: #fff; /* Change background color to white */
+            background-color: #fff; 
             border-radius: 10px;
             box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
             overflow: hidden;
@@ -33,7 +33,7 @@
             cursor: pointer;
             transition: transform 0.3s ease, color 0.3s ease;
             position: relative;
-            color: #000; /* Change text color to black */
+            color: #000; 
             text-decoration: none;
         }
 
@@ -89,7 +89,7 @@
             width: 100%;
             overflow: hidden;
             position: relative;
-            margin-top: 20px; /* Adjust spacing as needed */
+            margin-top: 20px; 
         }
 
         .slider-content {
@@ -102,7 +102,7 @@
             width: 100%;
         }
 
-        /* Arrow styles */
+       
         .prev, .next {
             cursor: pointer;
             position: absolute;
@@ -138,14 +138,28 @@
         }
 
         .slider-image {
-            width: 100%; /* Set the width to 100% */
-            height: auto; /* Ensure images maintain aspect ratio */
-            max-height: 400px; /* Set the maximum height */
+            width: 100%; 
+            height: auto; 
+            max-height: 400px; 
+        }
+
+        #lblWelcomeMessage {
+            flex-grow: 1;
+            text-align: center;
+            padding: 10px 0;
+            color: #000; 
+            text-decoration: none;
+            font-size: 20px;
+            text-transform: uppercase;
+            font-weight: bold; 
         }
     </style>
 </head>
 <body>
     <form id="form1" runat="server">
+         <div class="container">
+        <asp:Label ID="lblWelcomeMessage" runat="server" Text=""></asp:Label>
+        </div>
         <div class="container">
             <div class="section profile-section" onclick="viewProfile()">
                 <h2>Profile</h2>
@@ -153,8 +167,8 @@
             <div class="section shop-section" onclick="viewShop()">
                 <h2>Shop</h2>
             </div>
-            <div class="section sellwithus-section" onclick="viewSellwithUs()">
-                <h2>Sell with Us</h2>
+            <div class="section cart-section" onclick="viewCart()">
+                <h2>Cart</h2>
             </div>
             <div class="section feedbacks-section" onclick="viewFeedbacks()">
                 <h2>Feedbacks</h2>
@@ -167,11 +181,11 @@
             </div>
         </div>
 
-        <!-- Image slider -->
+       
         <div class="slider-container">
             <div class="slider-content">
               <div class="slider-item">
-                <img src="/images/dirk.png" alt="Image 1" class="slider-image">
+                <img src="/images/pink_dirk.png" alt="Image 1" class="slider-image">
             </div>
             <div class="slider-item">
                 <img src="/images/thrift.jpg" alt="Image 2" class="slider-image">
@@ -179,7 +193,7 @@
             <div class="slider-item">
                 <img src="/images/women.jpg" alt="Image 3" class="slider-image">
             </div>
-                <!-- Add more slider items as needed -->
+               
             </div>
             <a class="prev" onclick="moveSlider(-1)">&#10094;</a>
             <a class="next" onclick="moveSlider(1)">&#10095;</a>
@@ -199,7 +213,7 @@
             slideIndex++;
             if (slideIndex > slides.length) { slideIndex = 1 }
             slides[slideIndex - 1].style.display = "block";
-            setTimeout(showSlides, 2000); // Change image every 2 seconds
+            setTimeout(showSlides, 2000); 
         }
 
         function moveSlider(n) {
@@ -223,8 +237,8 @@
             window.location.href = "Shop1.aspx";
         }
 
-        function viewSellwithUs() {
-            window.location.href = "SellwithUs.aspx";
+        function viewCart() {
+            window.location.href = "Cart.aspx";
         }
 
         function viewFeedbacks() {
